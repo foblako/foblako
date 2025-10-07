@@ -44,5 +44,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=foblako&style=flat-square&color=blue" alt="Просмотры профиля" />
+  <img src="https://komarev.com/ghpvc/?username=foblako&label=Profile%20views&color=blue&style=flat-square" alt="Счётчик просмотров" />
 </p>
