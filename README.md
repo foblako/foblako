@@ -1,7 +1,6 @@
-<!-- Анимированный текст -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=400&lines=Привет%2C+я+foblako+%F0%9F%91%8B;Студент+%7C+C%2B%2B+энтузиаст+%7C+Учу+Unreal+Engine;Пишу+игры+на+SFML+%F0%9F%8E%AE;В+будущем+—+Unreal+Engine+%F0%9F%94%A5" alt="Анимированный заголовок" />
-</div>
+<!-- Заголовок -->
+<h1 align="center">Привет, я foblako 👋</h1>
+<h3 align="center">Студент | C++ энтузиаст | Учу Unreal Engine</h3>
 
 <!-- Описание -->
 <p align="center">
